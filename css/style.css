@@ -1,0 +1,25 @@
+title {
+    text-align: center;
+    font-size: larger;
+    font-weight: bold;
+    font-style: oblique;
+    color: goldenrod
+}
+h1 {
+    text-align: center;
+    font-style: italic;
+    font-feature-settings: "abvf";
+    font-family: fantasy;
+}
+h2 {
+    text-align: center;
+    color: indianred;
+    font-weight: normal;
+    font-style: oblique;
+}
+.Mauritus {
+    font-family: fantasy;
+    color: lawngreen;
+    text-decoration: lawngreen;
+    font-weight: bolder;
+}
